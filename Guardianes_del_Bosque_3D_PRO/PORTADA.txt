@@ -1,0 +1,14 @@
+PORTADA INSTITUCIONAL — COMPLETAR LOS DATOS
+
+[NOMBRE DE LA INSTITUCIÓN]
+[INSERTAR LOGO OFICIAL]
+
+Materia: [Nombre de la materia]
+Tema: Práctica integradora — Aplicación WebGL con Three.js
+Nombre del docente: [Nombre del maestro]
+Alumno(s): Ruben Fernandez Perez [agregar integrantes]
+Número(s) de control: [número(s)]
+Fecha: [día / mes / año]
+
+Título del proyecto:
+GUARDIANES DEL BOSQUE 3D
